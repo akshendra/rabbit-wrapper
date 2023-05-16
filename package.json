@@ -30,8 +30,9 @@
     "@akshendra/misc": "github:akshendra/utils",
     "@akshendra/service": "github:akshendra/service-base",
     "@akshendra/validator": "github:akshendra/validator",
-    "amqp-connection-manager": "^1.3.7",
-    "amqplib": "^0.5.2",
-    "uuid": "^3.2.1"
+    "amqp-connection-manager": "^4.1.13",
+    "amqplib": "^0.10.3",
+    "mocha": "^10.2.0",
+    "uuid": "^9.0.0"
   }
 }
